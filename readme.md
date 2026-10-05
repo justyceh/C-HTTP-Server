@@ -1,2 +1,2 @@
-# C++ HTTP Server
-By: Justyce Hickman
+# C++ HTTP SERVER
+
